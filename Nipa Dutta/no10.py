@@ -1,0 +1,6 @@
+p=int(input("ennter principal"))
+r=int(input("rate"))
+n=int(input("n terms"))
+t=int(input("time"))
+a=p*(1+(r/n))**(n*t)
+print(a)
