@@ -1,0 +1,15 @@
+'''
+Description: A Program To Calculate The Length and Perimeter Of Square
+Create Date: 13 November 2025
+Semester:1
+Author: Debjit Das
+Roll no: 25COSH002
+Course Code:1051
+Subject:Computer scince
+'''
+a=float(input("Enter THE Length Of Square To Calculate Area:"))
+C=a**2 
+print(C)
+b=float(input("Enter The Length Of Square To Calculate Perimeter:"))
+D=4*b 
+print(D)
